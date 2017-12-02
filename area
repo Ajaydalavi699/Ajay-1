@@ -1,0 +1,15 @@
+Input:
+#include<stdio.h>
+void main()
+{
+//*prn num=10303320171137213013
+  int a,b,h,area,peri,vol;
+  printf("Enter the side of cuboid");
+  scanf("%d%d%d",&a,&b,&c);
+  area=l*b;
+  printf("The area of cuboid:\n%d",area);
+  primeter
+  printf("The perimeter of cuboid:\n%d",perimeter);
+  volume
+  printf("The volume of cuboid:\n%d",volume);
+}
